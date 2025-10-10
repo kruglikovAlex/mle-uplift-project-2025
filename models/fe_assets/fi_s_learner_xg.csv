@@ -1,22 +1,71 @@
 ,0
-newbie,0.1588963
-womens_treat,0.09416461
-mens,0.091529325
-womens,0.09089223
-history,0.08187669
-zip_code_2,0.07420134
-channel_2,0.06523162
-recency,0.045844994
-history_segment_6,0.04231557
-history_segment_1,0.039324474
-history_segment_3,0.03575233
-history_treat,0.03438603
-history_segment_2,0.033162728
-treatment,0.030658549
-channel_1,0.02960919
-recency_treat,0.021711836
-zip_code_1,0.0153346285
-history_segment_5,0.015107526
-history_segment_4,0.0
+newbie,0.12880102
+history_segment,0.08424662
+mens,0.076077566
+treatment,0.068288855
+recency,0.059656747
+womens_treat,0.054615606
+womens,0.04206068
+zip_code,0.039306235
+cat_fg__history_segment_1,0.03775736
+cat_fg__channel_1,0.035769567
+channel,0.028981153
+num_fg__Polynomial__recency_score^2 recency_treat,0.02897754
+history_treat,0.028001912
+cat_fg__history_segment_2,0.024370592
+recency_treat,0.023360396
+num_fg__Polynomial__recency_score history_treat^2,0.022810746
+num_fg__Polynomial__recency history_treat^2,0.022483654
+num_fg__Polynomial__recency_score^2 history_treat,0.021452177
+num_fg__Polynomial__recency recency_score history_treat,0.020807944
+num_fg__Polynomial__recency_score history_treat,0.020748705
+num_fg__Polynomial__recency^2 history_treat,0.019769082
+num_fg__Polynomial__recency history_treat,0.019546522
+num_fg__Quantile__history_treat,0.018658815
+cat_fg__history_segment_4,0.01742323
+cat_fg__zip_code_1,0.01559296
+cat_fg__history_segment_3,0.014046802
+num_fg__KBinsDiscretizer__history_treat,0.013223724
+cat_fg__history_segment_5,0.013163768
+num_fg__Quantile__recency_score,0.0
+cat_fg__channel_2,0.0
+num_fg__Polynomial__recency_score recency_treat,0.0
+num_fg__Polynomial__recency_treat^2,0.0
+num_fg__Polynomial__history_treat^2,0.0
+cat_fg__history_segment_6,0.0
+cat_fg__mens_1,0.0
+num_fg__Quantile__recency,0.0
+num_fg__Polynomial__recency_score^2,0.0
 recency_score,0.0
-log_history,0.0
+num_fg__Polynomial__recency recency_score^2,0.0
+num_fg__Polynomial__recency^2 recency_treat,0.0
+num_fg__Polynomial__recency^2 recency_score,0.0
+num_fg__Polynomial__recency^3,0.0
+num_fg__Polynomial__recency_treat history_treat,0.0
+num_fg__Polynomial__recency recency_score recency_treat,0.0
+num_fg__Polynomial__recency recency_treat history_treat,0.0
+num_fg__Polynomial__recency recency_treat^2,0.0
+num_fg__Polynomial__history_treat,0.0
+num_fg__Polynomial__recency^2,0.0
+num_fg__Polynomial__recency recency_treat,0.0
+num_fg__Polynomial__recency recency_score,0.0
+num_fg__Polynomial__recency,0.0
+num_fg__Polynomial__recency_score,0.0
+num_fg__Polynomial__recency_treat,0.0
+num_fg__Polynomial__1,0.0
+num_fg__Polynomial__recency_treat^3,0.0
+num_fg__Polynomial__recency_score recency_treat history_treat,0.0
+num_fg__Polynomial__recency_score recency_treat^2,0.0
+num_fg__Polynomial__recency_score^3,0.0
+num_fg__Polynomial__recency_treat^2 history_treat,0.0
+num_fg__Polynomial__recency_treat history_treat^2,0.0
+num_fg__Polynomial__history_treat^3,0.0
+num_fg__Quantile__recency_treat,0.0
+num_fg__KBinsDiscretizer__recency,0.0
+num_fg__KBinsDiscretizer__recency_score,0.0
+cat_fg__womens_1,0.0
+num_fg__KBinsDiscretizer__recency_treat,0.0
+cat_fg__newbie_1,0.0
+cat_fg__treatment_1,0.0
+cat_fg__womens_treat_1,0.0
+cat_fg__zip_code_2,0.0
